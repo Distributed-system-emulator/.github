@@ -4,6 +4,7 @@
 
 As you can see there are multiple repositories:
 - <a href="https://github.com/Distributed-system-emulator/Project">Project</a>: main repository containing source code;
+- <a href="https://github.com/Distributed-system-emulator/Docs">Docs</a>: this repository contains the typst files for the course project presentation;
 - <a href="https://github.com/Distributed-system-emulator/.github">.github</a>: nothing important here, just the repository containing the organization README file.
 
 ## About us
