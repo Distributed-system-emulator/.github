@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Distributed System Emulator organization!</h1>
+<h1 align="center">👋 Welcome to Distributed Intelligence organization!</h1>
 
 ## Organization repository structure
 
